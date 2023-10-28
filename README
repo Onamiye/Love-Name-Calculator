@@ -1,0 +1,5 @@
+#Originally written for 100 days of code challenge
+#A program that takes 2 user's name and checks their compatibility based on the scores gotten.
+#The code checks for how many times the letters in "true" occurs in the names and sets it to a variable
+#Also checks for how many times the letters in the word "love" occurs in the name and sets it to another variable. 
+#It combines the two variables (love_score) and prints out a message based on the love_score.
